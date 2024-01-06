@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientDataResponse xmlns="http://www.ani.spring.samples.com/orders"
+                    confirmationId="7890B"
+                    orderDate="2024-01-12"
+                    amount="15.50" />
